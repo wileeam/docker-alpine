@@ -1,2 +1,2 @@
 # docker-alpine
-Docker Alpine base image 
+Just a Docker image based on latest available Alpine
