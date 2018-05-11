@@ -1,5 +1,5 @@
-FROM alpine:3.6
-MAINTAINER Guillermo Rodríguez Cano <gurc@csc.kth.se>
+FROM alpine:3.7
+MAINTAINER Guillermo Rodríguez Cano <gurc@kth.se>
 
 ENV PACKAGES="bash \
               curl"
